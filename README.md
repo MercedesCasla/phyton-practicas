@@ -23,3 +23,6 @@ Puedes clonar el repositorio y ejecutar los scripts con:
 
 ```bash
 python ejercicios/ejercicio1_saludo.py
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
